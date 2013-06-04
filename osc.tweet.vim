@@ -15,10 +15,9 @@ import requests
 import hashlib
 from BeautifulSoup import BeautifulSoup
 
-#username = "YOUR USERNAME"
-#password = "YOUR PASSWORD"
-username = "gschen.register@gmail.com"
-password = "fudan123"
+username = "YOUR USERNAME"
+password = "YOUR PASSWORD"
+
 
 
 userId=""
