@@ -4,3 +4,5 @@ This is a readme file
 1. 替换osc.tweet.vim中的YOUR USERNAME和YOUR PASSWORD为你的osc帐号和密码；
 2. 将osc.tweet.vim拷贝到~/.vim/plugin下；
 3. 用vim打开任意的文件，输入命令:OscTweet 动弹内容；
+
+
